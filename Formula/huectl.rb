@@ -1,8 +1,8 @@
 class Huectl < Formula
   desc "Ferramenta de CLI"
   homepage "https://github.com/AllMaciente/Huectl"
-  url "https://github.com/AllMaciente/Huectl/archive/refs/tags/0.1.3.tar.gz"
-  sha256 "b77a748a0e681ec544b80ee6798a7f50ff443e8224195e46223dc9f5a4ec2939"
+  url "https://github.com/AllMaciente/Huectl/archive/refs/tags/0.2.0.tar.gz"
+  sha256 "2f36af81b6be1f84f1004a1df100122a3500276e66cdc8a16e82b43ba98a62b7"
   license "MIT" 
   depends_on "rust" => :build
 
